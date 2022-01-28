@@ -1,3 +1,10 @@
+---
+title: "Jan 2022 Webpub Homepage"
+author: "Kristi"
+---
+
+{% include navigation.html %}
+
 # Building websites with GitHub
 
 ## Description
