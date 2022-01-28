@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Jan 2022 Webpub Homepage"
 author: "Kristi"
 ---
